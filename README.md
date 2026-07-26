@@ -1,5 +1,9 @@
 # 📊 Bluestock Mutual Fund Analytics
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Day%201%20Completed-success)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)# 📊 Bluestock Mutual Fund Analytics
+
 ## 📌 Project Overview
 
 This project is part of the **Bluestock Fintech Data Analytics Internship**.
