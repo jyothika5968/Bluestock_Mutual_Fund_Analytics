@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Day%201%20Completed-success)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
-# 📊 Bluestock Mutual Fund Analytics
 
 ## 📌 Project Overview
 
